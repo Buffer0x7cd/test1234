@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("hellow world")
+print("foo bar baz")
